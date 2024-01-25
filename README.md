@@ -4,35 +4,35 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ## Schedule
 
-### 1: Jan 24 - [Introduction](module00-intro)
+### 1: Jan 25 - [Introduction](module00-intro)
 
-### 2: Jan 31 - [Vectors](module01-vectors)
+### 2: Feb 1 - [Vectors](module01-vectors)
 
-### 3: Feb 7 - [Forces](module02-forces)
+### 3: Feb 8 - [Forces](module02-forces)
 
-### 4: Feb 14 - [Oscillating Motion](module03-osc)
+### 4: Feb 15 - [Oscillating Motion](module03-osc)
 
-### 5: Feb 21 - [Particle Systems](module04-systems)
+### 5: Feb 22 - [Particle Systems](module04-systems)
 
-### 6: Feb 28 - [Autonomous Agents](module05-agents)
+### 6: Feb 29 - [Autonomous Agents](module05-agents)
 
-### 7: Mar 6 - [Physics Libraries](module06-softbody)
+### 7: Mar 7 - [Physics Libraries](module06-softbody)
 
-### 8: Mar 13 - [Simulation Project](projects/simulation)
+### 8: Mar 14 - [Simulation Project](projects/simulation)
 
 ### SPRING BREAK
 
-### 9: Mar 27 - [Fractals and Cellular Automata](module07-fractals-ca)
+### 9: Mar 28 - [Fractals and Cellular Automata](module07-fractals-ca)
 
-### 10: Apr 3 - [Genetic Algorithms](module08-ga)
+### 10: Apr 4 - [Genetic Algorithms](module08-ga)
 
-### 11: Apr 10 - [Neural Networks](module09-neuro) and [Final Project Proposals](projects/final)
+### 11: Apr 11 - [Neural Networks](module09-neuro) and [Final Project Proposals](projects/final)
 
-### 11: Apr 17 - [Neuroevolution](module09-neuro) and [Final Project Proposals](projects/final)
+### 11: Apr 18 - [Neuroevolution](module09-neuro) and [Final Project Proposals](projects/final)
 
-### 13: Apr 24 - [Final Project Workshop](projects/final)
+### 13: Apr 25 - [Final Project Workshop](projects/final)
 
-### 14: May 1 - [Final Project Presentations](projects/final)
+### 14: May 2 - [Final Project Presentations](projects/final)
 
 ## Land Acknowledgement
 
@@ -44,9 +44,8 @@ For information on office hours and additional help, please see e-mail from the 
 
 ## Evaluation
 
-- Please read [ITP's policy on pass/fail](https://itp.nyu.edu/help/pass-fail/)
 - You are required to submit all weekly assignments and a final project.
-- Grading (pass/fail) will be based on a combination of factors:
+- Grading will be based on a combination of factors:
   - Participation (25%)
   - Assignments (50%)
   - Final Project (25%)
