@@ -4,7 +4,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ## Schedule
 
-### 1: Jan 25 - [Introduction](module00-intro)
+### 1: Jan 25 - [Introduction](https://github.com/nature-of-code/noc-syllabus-s24/tree/main/module00-intro)
 
 ### 2: Feb 1 - [Vectors](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module01-vectors)
 
