@@ -6,33 +6,33 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ### 1: Jan 25 - [Introduction](module00-intro)
 
-### 2: Feb 1 - [Vectors](module01-vectors)
+### 2: Feb 1 - [Vectors](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module01-vectors)
 
-### 3: Feb 8 - [Forces](module02-forces)
+### 3: Feb 8 - [Forces](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module02-forces)
 
-### 4: Feb 15 - [Oscillating Motion](module03-osc)
+### 4: Feb 15 - [Oscillating Motion](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module03-osc)
 
-### 5: Feb 22 - [Particle Systems](module04-systems)
+### 5: Feb 22 - [Particle Systems](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module04-systems)
 
-### 6: Feb 29 - [Autonomous Agents](module05-agents)
+### 6: Feb 29 - [Autonomous Agents](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module05-agents)
 
-### 7: Mar 7 - [Physics Libraries](module06-softbody)
+### 7: Mar 7 - [Physics Libraries](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module06-softbody)
 
-### 8: Mar 14 - [Simulation Project](projects/simulation)
+### 8: Mar 14 - [Simulation Project](https://github.com/nature-of-code/noc-syllabus-s24/tree/main/projects/simulation)
 
 ### SPRING BREAK
 
-### 9: Mar 28 - [Fractals and Cellular Automata](module07-fractals-ca)
+### 9: Mar 28 - [Fractals and Cellular Automata](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module07-fractals-ca)
 
-### 10: Apr 4 - [Genetic Algorithms](module08-ga)
+### 10: Apr 4 - [Genetic Algorithms](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module08-ga)
 
-### 11: Apr 11 - [Neural Networks](module09-neuro) and [Final Project Proposals](projects/final)
+### 11: Apr 11 - [Neural Networks](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module09-neuro) and [Final Project Proposals](projects/final)
 
-### 11: Apr 18 - [Neuroevolution](module09-neuro) and [Final Project Proposals](projects/final)
+### 11: Apr 18 - [Neuroevolution](https://github.com/nature-of-code/noc-syllabus-modules/tree/main/module09-neuro) and [Final Project Proposals](projects/final)
 
-### 13: Apr 25 - [Final Project Workshop](projects/final)
+### 13: Apr 25 - [Final Project Workshop](https://github.com/nature-of-code/noc-syllabus-s24/tree/main/projects/final)
 
-### 14: May 2 - [Final Project Presentations](projects/final)
+### 14: May 2 - [Final Project Presentations](https://github.com/nature-of-code/noc-syllabus-s24/tree/main/projects/final)
 
 ## Land Acknowledgement
 
